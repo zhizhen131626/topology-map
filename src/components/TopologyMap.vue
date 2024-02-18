@@ -11,7 +11,7 @@ export default {
   props: {
     msg: String
   },
-  components: { OfflineMap },
+  components: {},
   data() {
     return {
     }
